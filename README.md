@@ -64,10 +64,11 @@ This is the new analysis
 ![Image of size new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_new.PNG)
 
 ## Scores by school type
-Thomas High School is a Charter school
+Thomas High School is a Charter school.
 
 This is the old analysis
 ![Image of type old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/type_old.PNG)
 
+Average Reading Score being the exception, all other scores were decreased with the removal of the 9th graders.
 This is the new analysis
 ![Image of type new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/type_new.PNG)
