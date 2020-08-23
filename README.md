@@ -19,8 +19,9 @@ This is the old school analysis
 This is the new school analysis
 ![Image of new school analysis](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Thomas%20High%20School%20new.PNG)
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+After replacing the overall data with the data taken from only 10th - 12th graders.  Thomas High School is ranked #2 in the district.
 ![Image of top 5 ranksings](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Top%205.PNG)How does replacing the ninth-grade scores affect the following:
+
 Math and reading scores by grade
 Scores by school spending
 Scores by school size
