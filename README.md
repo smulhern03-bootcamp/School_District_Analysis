@@ -24,6 +24,8 @@ After replacing the overall data with the data taken from only 10th - 12th grade
 
 ## Math and reading scores by grade
 ## Scores by school spending
+![Image of spending new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Spending_new.PNG)
+![Image of spending old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/spending_old.PNG)
 ## Scores by school size
 ![Image of size old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_old.PNG)
 ![Image of size new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_new.PNG)
