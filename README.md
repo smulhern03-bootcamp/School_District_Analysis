@@ -30,3 +30,5 @@ After replacing the overall data with the data taken from only 10th - 12th grade
 ![Image of size old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_old.PNG)
 ![Image of size new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_new.PNG)
 ## Scores by school type
+![Image of type new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/type_new.PNG)
+![Image of type old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/type_old.PNG)
