@@ -30,12 +30,15 @@ This is the old math analysis
 ![Image of math old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/math%20scores%20by%20grade_old.PNG)
 
 This is the new math analysis
+
 ![Image of math new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/math%20scores%20by%20grade_new.PNG)
 
-This is the old math analysis
+This is the old reading analysis
+
 ![Image of reading scores old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/reading%20scores%20by%20grade_old.PNG)
 
-This is the new math analysis
+This is the new reading analysis
+
 ![Image of reading scores new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/reading%20scores%20by%20grade_.new.PNG)
 
 ## Scores by school spending
