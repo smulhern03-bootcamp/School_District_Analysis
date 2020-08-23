@@ -11,3 +11,17 @@ This is the old analysis
 However, the impact is negated when rounding occurs.  This is not surprising given that Thomas High School only had 461 9th graders, so the impact of their removal out of a district with 39,170 students would not be significant on a district-wide level.
 
 ## School Summary Impact
+The removal of the 9th graders from Thomas had a severe impact on Thomas High School's scores.  This is understandable given the school had an entire grade level's worth of data removed.
+
+This is the old school analysis
+![Image of old school analysis](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Thomas%20High%20School%20old.PNG)
+
+This is the new school analysis
+![Image of new school analysis](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Thomas%20High%20School%20new.PNG)
+
+How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+How does replacing the ninth-grade scores affect the following:
+Math and reading scores by grade
+Scores by school spending
+Scores by school size
+Scores by school type
