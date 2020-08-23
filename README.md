@@ -22,7 +22,9 @@ This is the new school analysis
 After replacing the overall data with the data taken from only 10th - 12th graders.  Thomas High School is ranked #2 in the district.
 ![Image of top 5 ranksings](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Top%205.PNG)How does replacing the ninth-grade scores affect the following:
 
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+## Math and reading scores by grade
+## Scores by school spending
+## Scores by school size
+![Image of size old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_old.PNG)
+![Image of size new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_new.PNG)
+## Scores by school type
