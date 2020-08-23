@@ -41,6 +41,8 @@ This is the new reading analysis
 
 ![Image of reading scores new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/reading%20scores%20by%20grade_.new.PNG)
 
+The impact was restricted to the pure absence of 9th grader data (NaN) as other grades did not have data removed, these were not impacted.
+
 ## Scores by school spending
 Similiar to the other analysis, the impact of the removal of Thomas 9th graders is marginal compared to their scores being left.
 
@@ -48,10 +50,13 @@ This is the old analysis
 ![Image of spending old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/spending_old.PNG)
 
 Thomas High School, which falls in the $630-$644 bin, saw marginal decreases across the board.  However, this decrease is negated if the scores are rounded.
+
 This is the new analysis
 ![Image of spending new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Spending_new.PNG)
 
 ## Scores by school size
+Thomas High School has 1635 students and falls within the Medium bin for school size.
+
 This is the old analysis
 ![Image of size old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_old.PNG)
 
@@ -59,6 +64,8 @@ This is the new analysis
 ![Image of size new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_new.PNG)
 
 ## Scores by school type
+Thomas High School is a Charter school
+
 This is the old analysis
 ![Image of type old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/type_old.PNG)
 
