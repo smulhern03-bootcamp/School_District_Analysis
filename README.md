@@ -1,5 +1,6 @@
 # School_District_Analysis
 ## Purpose
+Evidence has come to light of academic dishonest at Thomas High School.  Specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards.  The ninth graders' data for reading and math are to be replaced with NaNs while other grades are to be left intact.  After replacing the data, the previously conducted school district analysis is to be repeated to measure the impact of the dishonesty.
 
 ## District Summary Impact
 The removal of the 9th graders from Thomas High School had a slight impact on the District's scores.  Unsurprisingly, all the scores were lowered - some more than others.
@@ -62,6 +63,7 @@ This is the old analysis
 ![Image of size old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_old.PNG)
 
 Average Reading Score was the exception and had a marginal increase with the removal of the 9th graders.  All other scores were decreased.
+
 This is the new analysis
 ![Image of size new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_new.PNG)
 
@@ -72,8 +74,9 @@ This is the old analysis
 ![Image of type old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/type_old.PNG)
 
 Similiar to the "Scores by school size", Average Reading Score being the exception, all other scores were decreased with the removal of the 9th graders.
+
 This is the new analysis
 ![Image of type new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/type_new.PNG)
 
 ## Summary of Changes
-
+Overall, the impact of removing Thomas High School's 9th graders had marginal impact on any category other than School rankings.  The District summary, scores (math and reading; school spending, school size and school type) were all marginally impacted - by hundredths of percents.  These impacts are negated if the data is rounded.  The most impact was on Thomas High Schools ranking compared to other schools.  The removal of an entire grade dropped all scores significantly.
