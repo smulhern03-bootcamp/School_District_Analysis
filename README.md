@@ -23,19 +23,23 @@ After replacing the overall data with the data taken from only 10th - 12th grade
 ![Image of top 5 ranksings](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Top%205.PNG)How does replacing the ninth-grade scores affect the following:
 
 ## Math and reading scores by grade
-This is the old analysis
+The follwing is the analysis of the impact of removing 9th graders from math and reading.
+
+This is the old math analysis
+
 ![Image of math old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/math%20scores%20by%20grade_old.PNG)
 
-This is the new analysis
+This is the new math analysis
 ![Image of math new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/math%20scores%20by%20grade_new.PNG)
 
-This is the old analysis
+This is the old math analysis
 ![Image of reading scores old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/reading%20scores%20by%20grade_old.PNG)
 
-This is the new analysis
+This is the new math analysis
 ![Image of reading scores new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/reading%20scores%20by%20grade_.new.PNG)
 
 ## Scores by school spending
+
 This is the old analysis
 ![Image of spending old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/spending_old.PNG)
 
