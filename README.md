@@ -23,12 +23,35 @@ After replacing the overall data with the data taken from only 10th - 12th grade
 ![Image of top 5 ranksings](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Top%205.PNG)How does replacing the ninth-grade scores affect the following:
 
 ## Math and reading scores by grade
+This is the old analysis
+![Image of math old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/math%20scores%20by%20grade_old.PNG)
+
+This is the new analysis
+![Image of math new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/math%20scores%20by%20grade_new.PNG)
+
+This is the old analysis
+![Image of reading scores old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/reading%20scores%20by%20grade_old.PNG)
+
+This is the new analysis
+![Image of reading scores new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/reading%20scores%20by%20grade_.new.PNG)
+
 ## Scores by school spending
-![Image of spending new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Spending_new.PNG)
+This is the old analysis
 ![Image of spending old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/spending_old.PNG)
+
+This is the new analysis
+![Image of spending new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Spending_new.PNG)
+
 ## Scores by school size
+This is the old analysis
 ![Image of size old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_old.PNG)
+
+This is the new analysis
 ![Image of size new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_new.PNG)
+
 ## Scores by school type
-![Image of type new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/type_new.PNG)
+This is the old analysis
 ![Image of type old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/type_old.PNG)
+
+This is the new analysis
+![Image of type new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/type_new.PNG)
