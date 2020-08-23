@@ -1,4 +1,5 @@
 # School_District_Analysis
+## Purpose
 
 ## District Summary Impact
 The removal of the 9th graders from Thomas High School had a slight impact on the District's scores.  Unsurprisingly, all the scores were lowered - some more than others.
@@ -60,6 +61,7 @@ Thomas High School has 1635 students and falls within the Medium bin for school 
 This is the old analysis
 ![Image of size old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_old.PNG)
 
+Average Reading Score was the exception and had a marginal increase with the removal of the 9th graders.  All other scores were decreased.
 This is the new analysis
 ![Image of size new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/Size_new.PNG)
 
@@ -69,6 +71,9 @@ Thomas High School is a Charter school.
 This is the old analysis
 ![Image of type old](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/type_old.PNG)
 
-Average Reading Score being the exception, all other scores were decreased with the removal of the 9th graders.
+Similiar to the "Scores by school size", Average Reading Score being the exception, all other scores were decreased with the removal of the 9th graders.
 This is the new analysis
 ![Image of type new](https://github.com/smulhern03-bootcamp/School_District_Analysis/blob/master/type_new.PNG)
+
+## Summary of Changes
+
